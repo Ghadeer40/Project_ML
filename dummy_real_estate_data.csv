@@ -1,0 +1,5 @@
+Property_ID,Address,City,State,Zipcode,Bedrooms,Bathrooms,Square_Feet,Year_Built,Price
+101,123 Elm St,San Diego,CA,92101,3,2,1500,2001,750000
+102,456 Oak Ave,Austin,TX,73301,4,3,2500,2010,620000
+103,789 Pine Ln,Denver,CO,80201,2,1,1100,1995,450000
+104,101 Maple Rd,Seattle,WA,98101,5,4,3000,2020,910000
